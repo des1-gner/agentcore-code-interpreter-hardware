@@ -1,0 +1,10 @@
+# Desensitised sample output from probe_code_interpreter.py
+# (run against a sandbox account, us-west-2, 2026-10)
+# Account IDs / session IDs removed; the hardware figures are the point.
+
+os.cpu_count(): 2
+nproc: 2
+MemTotal:        8209720 kB
+Filesystem               Size  Used Avail Use% Mounted on
+overlayfs:/overlay/root  9.7G   33M  9.2G   1% /
+tmpfs           4.0G  4.0K  4.0G   1% /tmp
